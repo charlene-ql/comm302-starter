@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets & Trading Arena",
+  "description": "TradingView markets dashboard replica with live-simulated charts, market indices, stocks, crypto, fantasy paper trading, rapid bull/bear predictions, daily quests, and streak leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
